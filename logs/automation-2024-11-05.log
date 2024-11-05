@@ -1,0 +1,58 @@
+15:49:57.874 [main] INFO  testBase.BaseClass - ********************* Started the Test cases ******************
+15:49:57.877 [main] INFO  testBase.BaseClass - This is a debug log message
+15:50:25.042 [main] INFO  testBase.BaseClass - Clicke on Create an Account
+15:50:25.045 [main] INFO  testBase.BaseClass - Providing Customer Details.
+15:53:35.086 [main] INFO  testBase.BaseClass - ********************* Started the Test cases ******************
+15:53:35.089 [main] INFO  testBase.BaseClass - This is a debug log message
+15:53:46.301 [main] INFO  testBase.BaseClass - Clicke on Create an Account
+15:53:46.303 [main] INFO  testBase.BaseClass - Providing Customer Details.
+15:56:41.553 [main] INFO  testBase.BaseClass - ********************* Started the Test cases ******************
+15:56:41.554 [main] INFO  testBase.BaseClass - This is a debug log message
+15:57:12.458 [main] INFO  testBase.BaseClass - Clicke on Create an Account
+15:57:12.460 [main] INFO  testBase.BaseClass - Providing Customer Details.
+15:58:43.033 [main] INFO  testBase.BaseClass - ********************* Started the Test cases ******************
+15:58:43.035 [main] INFO  testBase.BaseClass - This is a debug log message
+15:59:07.099 [main] INFO  testBase.BaseClass - Clicke on Create an Account
+15:59:07.102 [main] INFO  testBase.BaseClass - Providing Customer Details.
+16:01:38.168 [main] INFO  testBase.BaseClass - ********************* Started the Test cases ******************
+16:01:38.170 [main] INFO  testBase.BaseClass - This is a debug log message
+16:02:01.446 [main] INFO  testBase.BaseClass - Clicke on Create an Account
+16:02:01.447 [main] INFO  testBase.BaseClass - Providing Customer Details.
+16:07:06.266 [main] INFO  testBase.BaseClass - ********************* Started the Test cases ******************
+16:07:06.267 [main] INFO  testBase.BaseClass - This is a debug log message
+16:07:32.028 [main] INFO  testBase.BaseClass - Clicke on Create an Account
+16:07:32.030 [main] INFO  testBase.BaseClass - Providing Customer Details.
+16:09:56.651 [main] INFO  testBase.BaseClass - ********************* Started the Test cases ******************
+16:09:56.653 [main] INFO  testBase.BaseClass - This is a debug log message
+16:10:23.443 [main] INFO  testBase.BaseClass - Clicke on Create an Account
+16:10:23.446 [main] INFO  testBase.BaseClass - Providing Customer Details.
+16:12:58.204 [main] INFO  testBase.BaseClass - ********************* Started the Test cases ******************
+16:12:58.205 [main] INFO  testBase.BaseClass - This is a debug log message
+16:13:22.998 [main] INFO  testBase.BaseClass - Clicke on Create an Account
+16:13:23.001 [main] INFO  testBase.BaseClass - Providing Customer Details.
+16:14:23.119 [main] INFO  testBase.BaseClass - ******************* Test Case Finished *********************
+16:46:03.401 [main] INFO  testBase.BaseClass - ********************* Started the Test cases ******************
+16:46:03.403 [main] INFO  testBase.BaseClass - This is a debug log message
+16:46:21.253 [main] INFO  testBase.BaseClass - Clicke on Create an Account
+16:46:21.254 [main] INFO  testBase.BaseClass - Providing Customer Details.
+16:46:46.206 [main] INFO  testBase.BaseClass - Validating the expected Message
+16:47:00.344 [main] INFO  testBase.BaseClass - ******************* Test Case Finished *********************
+16:52:43.784 [main] INFO  testBase.BaseClass - ******** TC002 Login Test Started ***********
+16:55:00.928 [main] INFO  testBase.BaseClass - ******** TC002 Login Test Started ***********
+16:55:44.998 [main] INFO  testBase.BaseClass - ************* TC002 Login Test is Finished ***************
+17:28:27.414 [main] INFO  testBase.BaseClass - ********************* Started the Test cases ******************
+17:28:27.416 [main] INFO  testBase.BaseClass - This is a debug log message
+17:28:48.112 [main] INFO  testBase.BaseClass - Clicke on Create an Account
+17:28:48.114 [main] INFO  testBase.BaseClass - Providing Customer Details.
+17:29:22.248 [main] INFO  testBase.BaseClass - Validating the expected Message
+17:29:22.411 [main] INFO  testBase.BaseClass - User is Created Successfully
+17:29:45.149 [main] INFO  testBase.BaseClass - ******************* Test Case Finished *********************
+17:29:45.153 [main] INFO  testBase.BaseClass - ******** TC002 Login Test Started ***********
+17:30:16.783 [main] INFO  testBase.BaseClass - ************* TC002 Login Test is Finished ***************
+17:39:30.942 [main] INFO  testBase.BaseClass - ********************* Started the Test cases ******************
+17:39:30.945 [main] INFO  testBase.BaseClass - This is a debug log message
+17:39:41.156 [main] INFO  testBase.BaseClass - Clicke on Create an Account
+17:39:41.158 [main] INFO  testBase.BaseClass - Providing Customer Details.
+17:40:12.451 [main] INFO  testBase.BaseClass - Validating the expected Message
+17:40:13.081 [main] INFO  testBase.BaseClass - User is Created Successfully
+17:40:40.430 [main] INFO  testBase.BaseClass - ******************* Test Case Finished *********************
